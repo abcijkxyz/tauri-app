@@ -56,7 +56,7 @@
         "https://raw.githubusercontent.com/renleiabc/tauri-app/main/update.json"
       ],
       "dialog": true,
-      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDk4RTI0RDRGREMzM0E5MUEKUldRYXFUUGNUMDNpbU9XSjZmR2sweDI3QkE2Ly9XRndYdVA2RFF4VTNOR2R2MzhlY251MG1oSzcK"
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEY5QkZBQzNBN0I5RjcyMEQKUldRTmNwOTdPcXkvK1NQd1VuZkd1MEZPUHphYmpCSlRpUHRwRzZaS01NZGhrWXFYQzlSZ3MyZVkK"
     },
     "windows": [
       {
