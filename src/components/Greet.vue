@@ -15,6 +15,6 @@ async function greet() {
     <input id="greet-input" v-model="name" placeholder="Enter a name..." />
     <button type="button" @click="greet()">Greet</button>
   </div>
-  <h2>v1.5.0</h2>
+  <h1>v1.5.0</h1>
   <p>{{ greetMsg }}</p>
 </template>
