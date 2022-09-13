@@ -1,0 +1,14 @@
+{
+  "version": "1.5.0",
+  "notes": "lastest version",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYXFUUGNUMDNpbVBGT1Q5RmRtMVdRYkttbWdZVngzbzlIY2ZWV2plR3VUL3lsK3ZLcjVsWE9DbjRUbFAzVWpTa2pDZXF3QXZvQ2U2S25FNG9zVjBjTmh2Sm9OaTVmVXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjYzMDQ5MzA4CWZpbGU6d2FsbGV0XzEuNS4wX3g2NF9lbi1VUy5tc2kuemlwCmV2UGJsYUdTblpDUzhZMWRPOUJRMXZaT2s4VHVaTEVaV0VUUllRQ3A1SFlEdFFaZkc3SVZZZFZ4NjRhTFFmd3Vyc1JySVE2cU5vd0JHM1doVml2dkJBPT0K",
+      "url": "https://gitee.com/wao-renlei/trauri/releases/download/1.5.0/wallet_1.5.0_x64_en-US.msi.zip"
+    },
+    "windows-i686": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYXFUUGNUMDNpbVBGT1Q5RmRtMVdRYkttbWdZVngzbzlIY2ZWV2plR3VUL3lsK3ZLcjVsWE9DbjRUbFAzVWpTa2pDZXF3QXZvQ2U2S25FNG9zVjBjTmh2Sm9OaTVmVXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjYzMDQ5MzA4CWZpbGU6d2FsbGV0XzEuNS4wX3g2NF9lbi1VUy5tc2kuemlwCmV2UGJsYUdTblpDUzhZMWRPOUJRMXZaT2s4VHVaTEVaV0VUUllRQ3A1SFlEdFFaZkc3SVZZZFZ4NjRhTFFmd3Vyc1JySVE2cU5vd0JHM1doVml2dkJBPT0K",
+      "url": "https://gitee.com/wao-renlei/trauri/releases/download/1.5.0/wallet_1.5.0_x64_en-US.msi.zip"
+    }
+  }
+}
