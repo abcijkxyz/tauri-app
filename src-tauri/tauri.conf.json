@@ -7,7 +7,7 @@
     "withGlobalTauri": false
   },
   "package": {
-    "productName": "wallet",
+    "productName": "tauri-app",
     "version": "1.6.0"
   },
   "tauri": {
@@ -22,13 +22,7 @@
         "depends": []
       },
       "externalBin": [],
-      "icon": [
-        "icons/logo-32.png",
-        "icons/logo-128.png",
-        "icons/logo-256.png",
-        "icons/logo-512.icns",
-        "icons/favicon.ico"
-      ],
+      "icon": ["icons/logo-32.png", "icons/logo-128.png", "icons/logo-256.png", "icons/logo-512.icns", "icons/favicon.ico"],
       "identifier": "com.tauri.build",
       "longDescription": "",
       "macOS": {
@@ -56,7 +50,7 @@
         "fullscreen": false,
         "height": 660,
         "resizable": true,
-        "title": "jutkey wallet",
+        "title": "tauri app",
         "width": 1300
       }
     ]
