@@ -1,7 +1,7 @@
 import fetch from 'node-fetch'
 import { getOctokit, context } from '@actions/github'
 
-const UPDATE_TAG_NAME = 'updater'
+const UPDATE_TAG_NAME = 'v0.0.5'
 const UPDATE_FILE_NAME = 'update.json'
 
 const getSignature = async (url) => {
